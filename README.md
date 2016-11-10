@@ -6,10 +6,18 @@
 ### Youtube 頻道
 - https://www.youtube.com/channel/UCFdTiwvDjyc62DBWrlYDtlQ
 
-### Anaconda 下載連結
-- https://www.continuum.io/downloads
+### Facebook 粉絲頁
+- https://www.facebook.com/largitdata/
 
 ### InfoLite 下載連結
 - https://chrome.google.com/webstore/detail/infolite/ipjbadabbpedegielkhgpiekdlmfpgal
+
+### InfoMiner 產品簡介
+- http://www.largitdata.com/infominer/ 
+
+### Anaconda 下載連結
+- https://www.continuum.io/downloads
+
+
 
 
