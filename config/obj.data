@@ -1,0 +1,5 @@
+classes= 3
+train  = /content/cfg_mask/train.txt
+valid  = /content/cfg_mask/test.txt
+names  = /content/cfg_mask/obj.names
+backup = /content/cfg_mask/weights/
