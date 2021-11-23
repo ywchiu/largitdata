@@ -26,7 +26,3 @@
 ### 手把手教你用Python 实践深度学习 
 
 - https://edu.hellobi.com/course/278
-
-###  人才招募 : 網站可靠性工程師 (Site Reliability Engineer - DevOps)
-
-- https://www.yourator.co/companies/LargitData/jobs/4806
