@@ -1,0 +1,24 @@
+# OS / editor / Python
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+.python-version
+.env
+Untitled*.ipynb
+
+# code/: 只追蹤課程 notebook、腳本與文件，素材與輸出檔不進版控
+code/*
+!code/*.ipynb
+!code/*.py
+!code/*.md
+
+# archive/: 未追蹤的暫存與舊檔
+archive/tmp/
+archive/tmp_311/
+archive/py27tmp/
+archive/142sample/
+archive/conf/
+archive/images/
+archive/buysell2.ipynb
+archive/test.py
+archive/speeches/104class/test.html
