@@ -26,3 +26,9 @@
 ### 手把手教你用Python 实践深度学习 
 
 - https://edu.hellobi.com/course/278
+
+### 目錄結構
+- `code/`：大數學堂課程範例 (Course_*.ipynb)
+- `data/`：課程用資料
+- `config/`：設定檔
+- `archive/`：歷年演講範例 (`archive/speeches/`) 及其他舊檔
