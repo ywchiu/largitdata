@@ -1,3 +1,5 @@
+**繁體中文** | [English](README.en.md)
+
 # 大數學堂 LargitData｜Python 網路爬蟲、AI 人工智慧與 ChatGPT 免費教學範例程式碼
 
 **大數學堂**是[大數軟體 LargitData](https://www.largitdata.com/) 經營的免費線上課程平台，以「一支影片、一份範例程式」的方式，教你用 Python 完成網路爬蟲、資料分析、深度學習與生成式 AI 應用。本 repo 收錄[大數學堂課程頁面](https://www.largitdata.com/courses/)上所有影片的範例程式碼（Jupyter Notebook），每份程式都對應一堂可以免費觀看的課程，可直接下載或在 Google Colab 開啟執行。
@@ -7,8 +9,6 @@
 - **Facebook 粉絲頁**：<https://www.facebook.com/largitdata/>
 - **課程數量**：本 repo 收錄 100 多堂課程的範例程式，網站持續更新中
 - **語言與格式**：繁體中文教學，Python 3，Jupyter Notebook（`.ipynb`）
-
-> **English summary** — LargitData Academy (大數學堂) is a free Traditional Chinese video course series by LargitData. This repository hosts the companion Python notebooks for each lesson, covering web scraping (Requests, BeautifulSoup, Selenium, Playwright), anti-bot and CAPTCHA handling, financial data crawling, deep learning (YOLO, CNN, DeepFakes), and generative AI (ChatGPT / OpenAI API, Gemini, Llama 2, DeepSeek, Whisper, AI agents, Claude Code). Each notebook `code/Course_N.ipynb` matches the lesson page `https://www.largitdata.com/course/N/`.
 
 ## 如何使用範例程式
 
