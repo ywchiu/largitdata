@@ -1,5 +1,5 @@
 ## DeepLearning 101
-- https://github.com/ywchiu/largitdata/blob/master/20200304Speech/Deep_Learning_101.ipynb
+- https://github.com/ywchiu/largitdata/blob/master/archive/speeches/20200304Speech/Deep_Learning_101.ipynb
 
 ## DeepFaceLab
 - https://github.com/iperov/DeepFaceLab
